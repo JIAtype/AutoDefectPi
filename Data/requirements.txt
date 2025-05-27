@@ -1,0 +1,4 @@
+numpy==2.2.4
+opencv_python==4.11.0.86
+picamera2==0.3.25
+Pillow==11.1.0
