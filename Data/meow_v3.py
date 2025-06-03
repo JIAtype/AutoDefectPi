@@ -257,7 +257,7 @@ if __name__ == "__main__":
 #to find pic: Go to /home/pi/picam folder
 
 '''
-conda activate raspi_ml # Activate miniforge3 envs
+# Activate miniforge3 envs
 conda install pip # Install Pip if needed
 pipreqs . --force
 .
