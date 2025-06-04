@@ -257,11 +257,10 @@ if __name__ == "__main__":
 #to find pic: Go to /home/pi/picam folder
 
 '''
-# Activate miniforge3 envs
+conda activate raspi_ml # Activate miniforge3 envs
 conda install pip # Install Pip if needed
 pipreqs . --force
 .
 .
 python3 meow_v3.py # Run code
 '''
-
