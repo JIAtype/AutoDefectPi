@@ -376,6 +376,7 @@ async def main():
     finally:
         logger.info("Server shutdown complete")
 
+
 if __name__ == "__main__":
     print("Starting OPC UA Camera Control Server...")
     print(f"Server will be available at: {OPC_UA_ENDPOINT}")
