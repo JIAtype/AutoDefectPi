@@ -1,0 +1,13 @@
+# my custom dataset
+# data/train_data
+path: data
+train: # train images (relative to 'path') 
+  - images/train
+val: # val images (relative to 'path')
+  - images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ["ac", "nc_greyish","nc_rusty","nc_scaled"]

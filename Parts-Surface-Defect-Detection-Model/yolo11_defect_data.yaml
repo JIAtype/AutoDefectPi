@@ -1,0 +1,12 @@
+names:
+- AC_Bright
+- AC_Half_Bright
+- NC_Greyish
+- NC_Rusty
+- NC_Peeled
+- NC_Scaled
+nc: 6
+path: path\to\your\dataset
+test: images/test
+train: images/train
+val: images/val
